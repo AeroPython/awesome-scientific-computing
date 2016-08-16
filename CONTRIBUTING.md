@@ -12,7 +12,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
-- Add the link: `- [project-name](http://example.com/) - A short description ends with a period.`
+- Add the link: `- [Title](Link) - A short description ending with a period.`
   - Keep descriptions concise.
 - Add a section if needed.
   - Add the section description.
