@@ -8,6 +8,34 @@
 ## Table of Contents
 
 
+
+- - -
+
+## Astrodynamics
+
+- [poliastro](https://github.com/poliastro/poliastro) - Astrodynamics in Python Library. ![Open-Source Software][OSS Icon]
+
+
+## Computational Fluid Dynamics
+
+- [cfd-online](http://www.cfd-online.com) - Free community for everyone interested in Computational Fluid Dynamics.
+
+
+## Signal Processing
+
+- [ligo-jupyter](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html) - Typical signal processing tasks with the LIGO GW150914 Open Data using the Jupyter Notebook.
+
+
+## Flight Mechanics
+
+- [pyfme](https://github.com/AeroPython/PyFME) - Python Flight Mechanics Engine. ![Open-Source Software][OSS Icon]
+
+
+## Nuclear Physics
+
+- [chernobyl-jupyter](https://github.com/newlawrence/Funny-Stuff/blob/master/notebooks/chernobyl.ipynb) - Analysis of the radioactive decay of the Chernobyl's radioactive waste using the Jupyter Notebook.
+
+
 ## Contribute
 
 **[⬆ back to top](#table-of-contents)**
