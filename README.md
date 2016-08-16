@@ -12,6 +12,15 @@
 - [Signal Processing](#signal-processing)
 - [Flight Mechanics](#flight-mechanics)
 - [Nuclear Physics](#nuclear-physics)
+- [Python](#python)
+- [Meteorology](meteorology)
+- [Chemical Engineering](#chemical-engineering)
+- [Structural Analysis](#structural-analysis)
+- [Numerical Aerodynamics](#numerical-aerodynamics)
+- [Data Analysis](#data-analysis)
+- [Machine Learnig](#machine-learnig)
+- [Control Systems](#control-systems)
+- [Marine Engineering](#marine-engineering)
 
 - - -
 
@@ -117,7 +126,7 @@
 - [python-control](https://www.cds.caltech.edu/~murray/wiki/Control_Systems_Library_for_Python) - Basic operations for analysis and design of feedback control systems. ![Open-Source Software][OSS Icon]
 
 
-## Marine engineering
+## Marine Engineering
 
 ### Software Tools
 
