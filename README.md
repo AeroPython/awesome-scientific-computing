@@ -34,6 +34,10 @@
 
 ## Computational Fluid Dynamics
 
+### Blog Posts
+
+- [Fluid Simulation for Video Games](https://software.intel.com/en-us/articles/fluid-simulation-for-video-games-part-1) - 20 part tutorial to use fluid motion game to create immersive and fun virtual worlds. 
+
 ### Communities
 
 - [CFD Online](http://www.cfd-online.com) - Free community for everyone interested in Computational Fluid Dynamics.
