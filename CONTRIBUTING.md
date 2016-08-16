@@ -25,7 +25,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Add a section if needed.
   - Add the section description.
   - Add the section title to Table of Contents.
-- Inside a section follow this scheme:
+- Inside a section follow this scheme and this order:
 ```
   - Software Tools
   - Blog Posts
