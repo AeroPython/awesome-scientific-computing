@@ -68,16 +68,16 @@
 
 ## Python
 
-### Blogs
-
-*Blogs usign Python in multiple Scientific Computing areas*
-
-- [Raúl E. López Briega](http://relopezbriega.github.io/) - Mathematics and Data Analysis using Python. (Spanish)
+* Use of Python in multiple Scientific Computing areas*
 
 ### Learning
 
 - [Basic Python Packages for Science](https://github.com/AeroPython/basic-python-packages-for-science/blob/master/Basic%20Python%20Packages%20for%20Science.ipynb) - Quick introduction to the principal Python packages for scientific purposes using the Jupyter Notebook.
 - [Numba: Tell those C++ bullies to get lost](https://github.com/barbagroup/numba_tutorial_scipy2016) - Scipy 2016 tutorial presented as a set of Jupyter notebooks with exercises sprinkled throughout.
+
+### Blogs
+
+- [Raúl E. López Briega](http://relopezbriega.github.io/) - Mathematics and Data Analysis using Python. (Spanish)
 
 
 ## Meteorology
