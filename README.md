@@ -68,7 +68,7 @@
 
 ## Python
 
-* Use of Python in multiple Scientific Computing areas*
+**Use of Python in multiple Scientific Computing areas**
 
 ### Learning
 
@@ -98,7 +98,7 @@
 
 ### Notebooks
 
--[Transverse Vibration of a uniform Euler-Bernoilli beam](https://nbviewer.jupyter.org/github/bayajid/Vibration/blob/master/Vibration.ipynb) - Transverse Vibrations analysed using Python.
+- [Transverse Vibration of a uniform Euler-Bernoilli beam](https://nbviewer.jupyter.org/github/bayajid/Vibration/blob/master/Vibration.ipynb) - Transverse Vibrations analysed using Python.
 
 
 ## Numerical Aerodynamics
@@ -139,8 +139,12 @@
 
 **[⬆ back to top](#table-of-contents)**
 
+
 ## Contribute
 
+**Your contributions are always welcome!** Please submit a pull request to add a new resource to the list. See [**CONTRIBUTING.md**](https://github.com/AeroPython/awesome-scientific-computing/blob/master/CONTRIBUTING.md) for more advice.
+
+**REMEMBER:** this is a list of resources that you consider essential but people may not know.
 
 ## License
 
