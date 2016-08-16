@@ -16,24 +16,24 @@
 - [poliastro](https://github.com/poliastro/poliastro) - Astrodynamics in Python Library. ![Open-Source Software][OSS Icon]
 
 
-## Computational Fluid Dynamics
+## Computational Fluid Dynamics (CFD)
 
-- [cfd-online](http://www.cfd-online.com) - Free community for everyone interested in Computational Fluid Dynamics.
+- [CFD Online](http://www.cfd-online.com) - Free community for everyone interested in Computational Fluid Dynamics.
 
 
 ## Signal Processing
 
-- [ligo-jupyter](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html) - Typical signal processing tasks with the LIGO GW150914 Open Data using the Jupyter Notebook.
+- [Signal Processign with GW150914 Open Data](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html) - Typical signal processing tasks with the LIGO GW150914 Open Data using the Jupyter Notebook.
 
 
 ## Flight Mechanics
 
-- [pyfme](https://github.com/AeroPython/PyFME) - Python Flight Mechanics Engine. ![Open-Source Software][OSS Icon]
+- [PyFME](https://github.com/AeroPython/PyFME) - Python Flight Mechanics Engine. ![Open-Source Software][OSS Icon]
 
 
 ## Nuclear Physics
 
-- [chernobyl-jupyter](https://github.com/newlawrence/Funny-Stuff/blob/master/notebooks/chernobyl.ipynb) - Analysis of the radioactive decay of the Chernobyl's radioactive waste using the Jupyter Notebook.
+- [¿Cuánto tardará el área de Chernobyl en dejar de ser radiactiva?](https://github.com/newlawrence/Funny-Stuff/blob/master/notebooks/chernobyl.ipynb) - Analysis of the radioactive decay of the Chernobyl's radioactive waste using the Jupyter Notebook. (Spanish)
 
 
 ## Contribute
