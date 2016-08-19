@@ -23,6 +23,13 @@
 - [Machine Learnig](#machine-learnig)
 - [Control Systems](#control-systems)
 - [Marine Engineering](#marine-engineering)
+- [Quantum Mechanics](#quantum-mechanics)
+- [Visualization](#visualization)
+- [Finite Element Method](#finite-element-method)
+- [Finite Volume Method](#finite-volume-method)
+- [Chemistry](#chemistry)
+- [Numerical Simulation](#numerical-simulation)
+
 
 - - -
 
@@ -36,9 +43,15 @@
 
 ## Computational Fluid Dynamics
 
+- [OpenFOAM](http://www.openfoam.com) - C++ toolbox for the development of customized numerical solvers, and pre-/post-processing utilities for the solution of continuum mechanics problems. ![Open-Source Software][OSS Icon]
+
 ### Blog Posts
 
 - [Fluid Simulation for Video Games](https://software.intel.com/en-us/articles/fluid-simulation-for-video-games-part-1) - 20 part tutorial to use fluid motion game to create immersive and fun virtual worlds. 
+
+### Learning
+
+- [CFDPython](https://github.com/barbagroup/CFDPython) - A sequence of IPython notebooks featuring the "12 Steps to Navier-Stokes".
 
 ### Communities
 
@@ -76,6 +89,8 @@
 
 - [Basic Python Packages for Science](https://github.com/AeroPython/basic-python-packages-for-science/blob/master/Basic%20Python%20Packages%20for%20Science.ipynb) - Quick introduction to the principal Python packages for scientific purposes using the Jupyter Notebook.
 - [Numba: Tell those C++ bullies to get lost](https://github.com/barbagroup/numba_tutorial_scipy2016) - Scipy 2016 tutorial presented as a set of Jupyter notebooks with exercises sprinkled throughout.
+- [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures) - A set of lectures on scientific computing with Python, using IPython notebooks.
+
 
 ### Blogs
 
@@ -137,6 +152,55 @@
 ### Software Tools
 
 - [FreeCAD-Ship](https://jlcercos.wordpress.com/freecad-ship-en/) -  FreeCAD module to provide a complete set of naval architect tools. ![Open-Source Software][OSS Icon]
+
+
+## Quantum Mechanics
+
+### Software Tools
+
+- [QuTiP](http://qutip.org) - Quantum Toolbox in Python. ![Open-Source Software][OSS Icon]
+
+
+## Visualization 
+
+### Software Tools
+
+- [Mayavi](http://docs.enthought.com/mayavi/mayavi/) -  3D scientific data visualization and plotting in Python. ![Open-Source Software][OSS Icon]
+- [ParaView](http://www.paraview.org) - Build visualizations to analyze their data using qualitative and quantitative techniques. ![Open-Source Software][OSS Icon]
+- [VisIt](https://wci.llnl.gov/simulation/computer-codes/visit) -  Interactive, scalable, visualization, animation and analysis tool. ![Open-Source Software][OSS Icon]
+
+
+## Finite Element Method
+
+### Software Tools
+
+- [Fenics Project](https://fenicsproject.org/index.html) - Automated scientific computing, with a particular focus on automated solution of differential equations by finite element methods. ![Open-Source Software][OSS Icon]
+- [SfePy](http://sfepy.org/doc-devel/index.html) - Solving systems of coupled partial differential equations (PDEs) by the finite element method in 1D, 2D and 3D. ![Open-Source Software][OSS Icon]
+
+### Blogs
+
+- [Finit3element](https://finit3element.com) - Web page on the finite element method (FEM) and its applicantions. (Spanish)
+
+
+## Finite Volume Method
+
+### Software Tools
+
+- [FiPy](http://www.ctcms.nist.gov/fipy/) - A Finite Volume PDE Solver Using Python. ![Open-Source Software][OSS Icon]
+
+
+## Chemistry
+
+### Software Tools
+
+- [PyMOL](https://www.pymol.org) - A molecular visualization system. ![Open-Source Software][OSS Icon]
+
+
+## Numerical Simulation
+
+### Software Tools
+
+- [SALOME](http://www.salome-platform.org) - Generic platform for Pre- and Post-Processing for numerical simulation. It is based on an open and flexible architecture made of reusable components. ![Open-Source Software][OSS Icon]
 
 
 **[⬆ back to top](#table-of-contents)**
