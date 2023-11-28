@@ -138,8 +138,8 @@
 ## Machine Learnig
 
 ### Learning
-- [Code solution of Steven L. Brunton and J. Nathan Kutz's book](https://github.com/dynamicslab/databook_matlab) - About Matlab files of the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by Steven L. Brunton and J. Nathan Kutz.
-- [Matlab code and Instructor Resources of Simon Haykin's book](https://media.pearsoncmg.com/bc/abp/engineering-resources/products/product.html#product,isbn=0131471392) - Instructor Resources and Matlab code of Simon Haykin's book "Neural Networks and Learning Machines".
+- [Code solution of Steven L. Brunton and J. Nathan Kutz's book](https://github.com/dynamicslab/databook_matlab) - Matlab codes of the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by Steven L. Brunton and J. Nathan Kutz. ![Freeware][Freeware Icon]
+- [Matlab code and Instructor Resources of Simon Haykin's book](https://media.pearsoncmg.com/bc/abp/engineering-resources/products/product.html#product,isbn=0131471392) - Instructor Resources and Matlab code of Simon Haykin's book "Neural Networks and Learning Machines". ![Freeware][Freeware Icon]
 
 ### Blog Posts
 
@@ -148,7 +148,7 @@
 ### Datasets
 
 - [UCI](https://archive.ics.uci.edu/) - UC Irvine Machine Learning Repository.
-- [kaggle](https://www.kaggle.com/datasets) - Data science competition platform and online community of data scientists and machine learning practitioners under Google LLC.
+- [kaggle](https://www.kaggle.com/datasets) - A data science competition platform enables users to find and publish open datasets, explore and build models in a web-based data science environment, work with other data scientists and machine learning engineers.
 
 ## Control Systems
 
