@@ -74,7 +74,7 @@
 
 - [Convex optimization Solution manual](https://egrcc.github.io/docs/math/cvxbook-solutions.pdf) - Boyd, S.P. and Vandenberghe, L., 2004. Convex optimization. Cambridge university press.
 - [Additional exercises](https://egrcc.github.io/docs/math/cvxbook-solutions.pdf) - Boyd, S.P. and Vandenberghe, L., 2004. Convex optimization. Cambridge university press.
-- [EE364A - Convex Optimization I](https://see.stanford.edu/Course/EE364A) and [Material](https://web.stanford.edu/class/ee364a/) - Stanford Engineering Everywhere - Convex Optimization I course.
+- [EE364A - Convex Optimization I](https://see.stanford.edu/Course/EE364A) and [Material](https://web.stanford.edu/class/ee364a/) - Stanford Engineering Everywhere - Convex Optimization I course. ![Freeware][Freeware Icon]
 - [Additional exercises and data for EE364a](https://github.com/cvxgrp/cvxbook_additional_exercises) - Additional exercises and data files in Python, Julia, and Matlab for Stanford EE364a, Convex Optimization.
 
 ### Notebooks
