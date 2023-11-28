@@ -63,6 +63,10 @@
 
 ## Signal Processing
 
+### Learning
+
+- [Simon Haykin's Matlab codes and instructor resources](https://media.pearsoncmg.com/bc/abp/engineering-resources/products/product.html#product,isbn=013267145X) - Matlab codes and instructor resources of the Simon Haykin's "Adaptive Filter Theory"
+
 ### Notebooks
 
 - [Signal Processign with GW150914 Open Data](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html) - Typical signal processing tasks with the LIGO GW150914 Open Data.
