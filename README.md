@@ -145,6 +145,10 @@
 
 - [Man Combines Random People’s Photos Using Neural Networks And The Results Are Amazing](http://www.boredpanda.com/inceptionism-neural-network-deep-dream-art/) - Art technique known as Inceptionism, where images are combined using neural networks to generate a single mind-bending picture.
 
+### Datasets
+
+- [UCI](https://archive.ics.uci.edu/) - UC Irvine Machine Learning Repository.
+- [kaggle](https://www.kaggle.com/datasets) - Data science competition platform and online community of data scientists and machine learning practitioners under Google LLC.
 
 ## Control Systems
 
