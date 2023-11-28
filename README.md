@@ -12,6 +12,7 @@
 - [Astrodynamics](#astrodynamics)
 - [Computational Fluid Dynamics](#computational-fluid-dynamics)
 - [Signal Processing](#signal-processing)
+- [Linear Algebra](#linear-algebra)
 - [Flight Mechanics](#flight-mechanics)
 - [Nuclear Physics](#nuclear-physics)
 - [Python](#python)
@@ -74,6 +75,13 @@
 
 - [PyFME](https://github.com/AeroPython/PyFME) - Python Flight Mechanics Engine. ![Open-Source Software][OSS Icon]
 - [Aerospace Blockset™](http://es.mathworks.com/products/aeroblks/) - Simulink® extension with blocks for modeling and simulating aircraft, spacecraft, rocket, and propulsion systems, as well as unmanned airborne vehicles.
+
+## Linear Algebra
+
+### Learning
+
+- [MIT 18.06, Linear Algebra course](https://github.com/mitmath/1806) - Linear Algebra course by Professor Gilbert Strang.
+- [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone".
 
 
 ## Nuclear Physics
