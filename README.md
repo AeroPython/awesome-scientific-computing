@@ -137,6 +137,10 @@
 
 ## Machine Learnig
 
+### Learning
+- [Code solution of Steven L. Brunton and J. Nathan Kutz's book](https://github.com/dynamicslab/databook_matlab) - About Matlab files of the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by Steven L. Brunton and J. Nathan Kutz.
+- [Matlab code and Instructor Resources of Simon Haykin's book](https://media.pearsoncmg.com/bc/abp/engineering-resources/products/product.html#product,isbn=0131471392) - Instructor Resources and Matlab code of Simon Haykin's book "Neural Networks and Learning Machines".
+
 ### Blog Posts
 
 - [Man Combines Random People’s Photos Using Neural Networks And The Results Are Amazing](http://www.boredpanda.com/inceptionism-neural-network-deep-dream-art/) - Art technique known as Inceptionism, where images are combined using neural networks to generate a single mind-bending picture.
