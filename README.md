@@ -66,6 +66,9 @@
 
 ### Learning
 
+- [Book: Discrete-Time Signal Processing, Alan V. Oppenheim and Ronald W. Schafer. 3th edition. Prentice Hall Signal Processing.](https://azrael.digipen.edu/MAT321/DiscreteTimeSignalProcessing3.pdf)
+- [Solution manual of the book "Discrete-Time Signal Processing", Alan V. Oppenheim and Ronald W. Schafer. 3th edition.](https://github.com/cdjhz/Discrete-time-Signal-Processing-Solution/tree/master)
+- [MIT open Couseware in Discrete-Time Signal Processing] - It addresses the representation, analysis, and design of discrete time signals and systems.
 - [Simon Haykin's Matlab codes and instructor resources](https://media.pearsoncmg.com/bc/abp/engineering-resources/products/product.html#product,isbn=013267145X) - Matlab codes and instructor resources of the Simon Haykin's "Adaptive Filter Theory"
 
 ### Notebooks
