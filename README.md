@@ -12,6 +12,7 @@
 - [Astrodynamics](#astrodynamics)
 - [Computational Fluid Dynamics](#computational-fluid-dynamics)
 - [Signal Processing](#signal-processing)
+- [Optimization](#optimization)
 - [Linear Algebra](#linear-algebra)
 - [Flight Mechanics](#flight-mechanics)
 - [Nuclear Physics](#nuclear-physics)
@@ -68,6 +69,21 @@
 ### Notebooks
 
 - [Signal Processign with GW150914 Open Data](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html) - Typical signal processing tasks with the LIGO GW150914 Open Data.
+
+## Optimization
+
+### Learning
+
+- [Boyd, S.P. and Vandenberghe, L., 2004. Convex optimization. Cambridge university press.](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf).
+- [Convex optimization Solution manual](https://egrcc.github.io/docs/math/cvxbook-solutions.pdf) - Boyd, S.P. and Vandenberghe, L., 2004. Convex optimization. Cambridge university press.
+- [Additional exercises](https://egrcc.github.io/docs/math/cvxbook-solutions.pdf) - Boyd, S.P. and Vandenberghe, L., 2004. Convex optimization. Cambridge university press.
+- [EE364A - Convex Optimization I](https://see.stanford.edu/Course/EE364A) and [Material](https://web.stanford.edu/class/ee364a/) - Stanford Engineering Everywhere - Convex Optimization I course. ![Freeware][Freeware Icon]
+- [Additional exercises and data for EE364a](https://github.com/cvxgrp/cvxbook_additional_exercises) - Additional exercises and data files in Python, Julia, and Matlab for Stanford EE364a, Convex Optimization.
+
+### Notebooks
+
+- [CVXPY tutorial](https://github.com/cvxgrp/cvx_short_course/tree/master) - Materials for a short course on convex optimization.
+- [CVX101 Stanford](https://github.com/NoamGit/CVX101-HW-with-python) - Stephen Boyd's Convex Optimization class with Python.
 
 
 ## Flight Mechanics
