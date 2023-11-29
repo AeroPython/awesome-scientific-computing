@@ -172,6 +172,7 @@
 
 - [GNU Radio](https://www.gnuradio.org) - Free software development toolkit that provides signal processing blocks to implement software-defined radios and signal processing systems. ![Freeware][Freeware Icon]
 - [proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Swiss-army tool of RFID, allowing for interactions with the vast majority of RFID tags on a global scale.
+- [HackRF](https://github.com/greatscottgadgets/hackrf) - A low cost, open source Software Defined Radio platform.
 
 ### Learning
 - [Quadrature Signals: Complex, But Not Complicated.](https://www.ieee.li/pdf/essay/quadrature_signals.pdf)
