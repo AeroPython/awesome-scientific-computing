@@ -147,6 +147,7 @@
 
 ### Learning
 - [Code solution of Steven L. Brunton and J. Nathan Kutz's book](https://github.com/dynamicslab/databook_matlab) - Matlab codes of the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by Steven L. Brunton and J. Nathan Kutz. ![Freeware][Freeware Icon]
+- [Neural Networks and Learning Machines (3rd Edition), Simon Haykin](https://github.com/xinlin192/DeepLearning/blob/master/Neural%20Networks%20and%20Learning%20Machines%20(3rd%20Edition).pdf).
 - [Matlab code and Instructor Resources of Simon Haykin's book](https://media.pearsoncmg.com/bc/abp/engineering-resources/products/product.html#product,isbn=0131471392) - Instructor Resources and Matlab code of Simon Haykin's book "Neural Networks and Learning Machines". ![Freeware][Freeware Icon]
 
 ### Blog Posts
