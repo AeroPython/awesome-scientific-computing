@@ -168,6 +168,11 @@
 
 ## Communication Systems
 
+### Software Tools
+
+- [GNU Radio](https://www.gnuradio.org) - Free software development toolkit that provides signal processing blocks to implement software-defined radios and signal processing systems. ![Freeware][Freeware Icon]
+- [proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Swiss-army tool of RFID, allowing for interactions with the vast majority of RFID tags on a global scale.
+
 ### Learning
 - [Quadrature Signals: Complex, But Not Complicated.](https://www.ieee.li/pdf/essay/quadrature_signals.pdf)
 - [I/Q Data for Dummies.](http://whiteboard.ping.se/SDR/IQ)
