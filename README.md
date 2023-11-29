@@ -12,6 +12,7 @@
 - [Astrodynamics](#astrodynamics)
 - [Computational Fluid Dynamics](#computational-fluid-dynamics)
 - [Signal Processing](#signal-processing)
+- [Linear Algebra](#linear-algebra)
 - [Flight Mechanics](#flight-mechanics)
 - [Nuclear Physics](#nuclear-physics)
 - [Python](#python)
@@ -79,6 +80,13 @@
 - [PyFME](https://github.com/AeroPython/PyFME) - Python Flight Mechanics Engine. ![Open-Source Software][OSS Icon]
 - [Aerospace Blockset™](http://es.mathworks.com/products/aeroblks/) - Simulink® extension with blocks for modeling and simulating aircraft, spacecraft, rocket, and propulsion systems, as well as unmanned airborne vehicles.
 
+## Linear Algebra
+
+### Learning
+
+- [MIT 18.06, Linear Algebra course](https://github.com/mitmath/1806) - Linear Algebra course by Professor Gilbert Strang.
+- [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone".
+
 
 ## Nuclear Physics
 
@@ -141,10 +149,18 @@
 
 ## Machine Learnig
 
+### Learning
+- [Code solution of Steven L. Brunton and J. Nathan Kutz's book](https://github.com/dynamicslab/databook_matlab) - Matlab codes of the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by Steven L. Brunton and J. Nathan Kutz. ![Freeware][Freeware Icon]
+- [Matlab code and Instructor Resources of Simon Haykin's book](https://media.pearsoncmg.com/bc/abp/engineering-resources/products/product.html#product,isbn=0131471392) - Instructor Resources and Matlab code of Simon Haykin's book "Neural Networks and Learning Machines". ![Freeware][Freeware Icon]
+
 ### Blog Posts
 
 - [Man Combines Random People’s Photos Using Neural Networks And The Results Are Amazing](http://www.boredpanda.com/inceptionism-neural-network-deep-dream-art/) - Art technique known as Inceptionism, where images are combined using neural networks to generate a single mind-bending picture.
 
+### Datasets
+
+- [UCI](https://archive.ics.uci.edu/) - UC Irvine Machine Learning Repository.
+- [kaggle](https://www.kaggle.com/datasets) - A data science competition platform enables users to find and publish open datasets, explore and build models in a web-based data science environment, work with other data scientists and machine learning engineers.
 
 ## Control Systems
 
