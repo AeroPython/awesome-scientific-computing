@@ -83,6 +83,7 @@
 - [Kernel Adaptive Filtering in Python](https://github.com/ninja3697/Kernel-Adaptive-Filtering-in-Python/tree/master) - Implementation of LMS, RLS, KLMS and KRLS filters in Python.
 - [Adaptive Filtering code of Matlab Adaptive Filtering toolbox](https://github.com/guedes-joaofelipe/adaptive-filtering) - Repository containing a Python implemetation of the Matlab [Adaptive Filtering toolbox](http://www.mathworks.com/matlabcentral/fileexchange/3582-adaptive-filtering).
 - [Matlab codes for Statistical Signal Processing algorithms](https://github.com/robical/StatisticalSignalProcessing) - Matlab code implementing different methods used in statistical signal processing; mainly Extended Kalman Filters, LMS/RLS, Wiener, robust regression, MMSE estimators, ML estimators, Hi-Frequency estimators (Pisarenko, MUSIC, ESPRIT).
+- [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://github.com/mitmath/18065) - Jupyter Notebooks for "18.065: Matrix Methods in Data Analysis, Signal Processing, and Machine Learning".
 
 ## Flight Mechanics
 
