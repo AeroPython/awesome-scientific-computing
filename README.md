@@ -64,10 +64,26 @@
 
 ## Signal Processing
 
+### Software Tools
+- [padasip](https://matousc89.github.io/padasip/) - Python Adaptive Signal Processing Package.
+
+### Learning
+
+- [Book: Discrete-Time Signal Processing, Alan V. Oppenheim and Ronald W. Schafer. 3th edition. Prentice Hall Signal Processing.](https://azrael.digipen.edu/MAT321/DiscreteTimeSignalProcessing3.pdf)
+- [Solution manual of the book "Discrete-Time Signal Processing", Alan V. Oppenheim and Ronald W. Schafer. 3th edition.](https://github.com/cdjhz/Discrete-time-Signal-Processing-Solution/tree/master)
+- [MIT OpenCourseWare in Signals And Systems](https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/) - An introduction to analog and digital signal processing.
+- [MIT OpenCourseWare in Discrete-Time Signal Processing](https://ocw.mit.edu/courses/6-341-discrete-time-signal-processing-fall-2005/) - It addresses the representation, analysis, and design of discrete time signals and systems.
+- [Simon Haykin's Matlab codes and instructor resources](https://media.pearsoncmg.com/bc/abp/engineering-resources/products/product.html#product,isbn=013267145X) - Matlab codes and instructor resources of the Simon Haykin's "Adaptive Filter Theory"
+
 ### Notebooks
 
 - [Signal Processign with GW150914 Open Data](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html) - Typical signal processing tasks with the LIGO GW150914 Open Data.
-
+- [Code solution of three classical adaptive filter books](https://github.com/YangangCao/AdaptiveFilter/tree/master) - Adaptive Filter Theory (5th Edition) wrotten by Simon Haykin, Adatpive Filtering: Algorithms and Practical Implentation (4th Edition) wrotten by Paulo S R. Diniz, and Adaptive Filters: Theory and Application (2nd Edition) wrotten by Behrouz Farhang-Boroujeny.
+- [pyaec](https://github.com/ewan-xu/pyaec/tree/main) - A simple and efficient python implemention of a series of adaptive filters for acoustic echo cancellation.
+- [Kernel Adaptive Filtering in Python](https://github.com/ninja3697/Kernel-Adaptive-Filtering-in-Python/tree/master) - Implementation of LMS, RLS, KLMS and KRLS filters in Python.
+- [Adaptive Filtering code of Matlab Adaptive Filtering toolbox](https://github.com/guedes-joaofelipe/adaptive-filtering) - Repository containing a Python implemetation of the Matlab [Adaptive Filtering toolbox](http://www.mathworks.com/matlabcentral/fileexchange/3582-adaptive-filtering).
+- [Matlab codes for Statistical Signal Processing algorithms](https://github.com/robical/StatisticalSignalProcessing) - Matlab code implementing different methods used in statistical signal processing; mainly Extended Kalman Filters, LMS/RLS, Wiener, robust regression, MMSE estimators, ML estimators, Hi-Frequency estimators (Pisarenko, MUSIC, ESPRIT).
+- [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://github.com/mitmath/18065) - Jupyter Notebooks for "18.065: Matrix Methods in Data Analysis, Signal Processing, and Machine Learning".
 
 ## Flight Mechanics
 
