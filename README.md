@@ -77,6 +77,7 @@
 - [Signal Processign with GW150914 Open Data](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html) - Typical signal processing tasks with the LIGO GW150914 Open Data.
 - [Code solution of three classical adaptive filter books](https://github.com/YangangCao/AdaptiveFilter/tree/master) - Adaptive Filter Theory (5th Edition) wrotten by Simon Haykin, Adatpive Filtering: Algorithms and Practical Implentation (4th Edition) wrotten by Paulo S R. Diniz, and Adaptive Filters: Theory and Application (2nd Edition) wrotten by Behrouz Farhang-Boroujeny.
 - [pyaec](https://github.com/ewan-xu/pyaec/tree/main) - A simple and efficient python implemention of a series of adaptive filters for acoustic echo cancellation.
+- [Kernel Adaptive Filtering in Python](https://github.com/ninja3697/Kernel-Adaptive-Filtering-in-Python/tree/master) - Implementation of LMS, RLS, KLMS and KRLS filters in Python.
 
 ## Flight Mechanics
 
