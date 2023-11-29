@@ -73,6 +73,7 @@
 
 ### Learning
 
+- [Boyd, S.P. and Vandenberghe, L., 2004. Convex optimization. Cambridge university press.](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf).
 - [Convex optimization Solution manual](https://egrcc.github.io/docs/math/cvxbook-solutions.pdf) - Boyd, S.P. and Vandenberghe, L., 2004. Convex optimization. Cambridge university press.
 - [Additional exercises](https://egrcc.github.io/docs/math/cvxbook-solutions.pdf) - Boyd, S.P. and Vandenberghe, L., 2004. Convex optimization. Cambridge university press.
 - [EE364A - Convex Optimization I](https://see.stanford.edu/Course/EE364A) and [Material](https://web.stanford.edu/class/ee364a/) - Stanford Engineering Everywhere - Convex Optimization I course. ![Freeware][Freeware Icon]
