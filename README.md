@@ -23,6 +23,7 @@
 - [Data Analysis](#data-analysis)
 - [Machine Learnig](#machine-learnig)
 - [Control Systems](#control-systems)
+- [Communication Systems](#communication-systems)
 - [Marine Engineering](#marine-engineering)
 - [Microscopy](#microscopy)
   - [Scanning Probe Microscopy](#scanning-probe-microscopy)
@@ -164,6 +165,21 @@
 
 - [python-control](https://www.cds.caltech.edu/~murray/wiki/Control_Systems_Library_for_Python) - Basic operations for analysis and design of feedback control systems. ![Open-Source Software][OSS Icon]
 
+
+## Communication Systems
+
+### Software Tools
+
+- [GNU Radio](https://www.gnuradio.org) - Free software development toolkit that provides signal processing blocks to implement software-defined radios and signal processing systems. ![Freeware][Freeware Icon]
+- [proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Swiss-army tool of RFID, allowing for interactions with the vast majority of RFID tags on a global scale.
+- [HackRF](https://github.com/greatscottgadgets/hackrf) - A low cost, open source Software Defined Radio platform.
+
+### Learning
+- [Quadrature Signals: Complex, But Not Complicated.](https://www.ieee.li/pdf/essay/quadrature_signals.pdf)
+- [I/Q Data for Dummies.](http://whiteboard.ping.se/SDR/IQ)
+- [GLONASS & GPS HW design](https://content.u-blox.com/sites/default/files/products/documents/GLONASS-HW-Design_AppNote_%28GPS.G6-CS-10005%29.pdf)
+- [Software Radio for Experimenters with GNU Radio](https://people.scs.carleton.ca/~barbeau/SDRCRBook/index.shtml) - Implemented in Octave and Python by Michel Barbeau.
+- [Let’s Assume the System is Synchronized](https://s3.amazonaws.com/embeddedrelated/user/6420/lets_assume_system_synchronized_2_94379.pdf) - By Fred Harris.
 
 ## Marine Engineering
 
