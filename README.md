@@ -16,6 +16,7 @@ _See https://github.com/tapyu/awesome-scientific-computing instead_
 - [Astrodynamics](#astrodynamics)
 - [Computational Fluid Dynamics](#computational-fluid-dynamics)
 - [Signal Processing](#signal-processing)
+- [Numerical Methods](#numerical-methods)
 - [Linear Algebra](#linear-algebra)
 - [Flight Mechanics](#flight-mechanics)
 - [Nuclear Physics](#nuclear-physics)
@@ -80,6 +81,25 @@ _See https://github.com/tapyu/awesome-scientific-computing instead_
 
 - [PyFME](https://github.com/AeroPython/PyFME) - Python Flight Mechanics Engine. ![Open-Source Software][OSS Icon]
 - [Aerospace Blockset™](http://es.mathworks.com/products/aeroblks/) - Simulink® extension with blocks for modeling and simulating aircraft, spacecraft, rocket, and propulsion systems, as well as unmanned airborne vehicles.
+
+## Numerical methods
+
+### Software Tools
+
+- [`DifferentialEquations.jl`](https://docs.sciml.ai/DiffEqDocs/latest/) - A suite for numerically solving differential equations written in Julia and available for use in Julia, Python, and R.
+- [`IterativeSolvers.jl`](https://iterativesolvers.julialinearalgebra.org/dev/) - A Julia package that provides efficient iterative algorithms for solving large linear systems, eigenproblems, and singular value problems.
+- [`Integrals.jl`](https://docs.sciml.ai/Integrals/stable/) - An unified interface for the numerical approximation of integrals (quadrature) in Julia.
+- [`FiniteDifferences.jl`](https://github.com/JuliaDiff/FiniteDifferences.jl) and [`FiniteDiff.jl`](https://github.com/JuliaDiff/FiniteDiff.jl) - Julia packages for [numerical differentiation](https://en.wikipedia.org/wiki/Numerical_differentiation).
+- [`ForwardDiff.jl`](https://juliadiff.org/ForwardDiff.jl/stable/) and [`ReverseDiff.jl`](https://github.com/JuliaDiff/ReverseDiff.jl) - Julia packages for [automatic differentiation (AD)](https://en.wikipedia.org/wiki/Automatic_differentiation).
+
+### Learning
+
+- [Numerical Methods for Engineers, Steven C. Chapra and Raymond P. Canale. 7th edition.](https://gdcboysang.ac.in/About/Droid/uploads/Numerical%20Methods.pdf)
+
+### Notebooks
+
+- [`Numerical-Methods`](https://github.com/asukumari/Numerical-Methods) - Several types of numerical methods are written in python, all methods described at Chapra and Canale book(Numerical Methods for Engineers).
+- ['numerical_methods'](https://github.com/danimateos/numerical_methods) - Yet another Jupyter notebook with numerical methods based on Chapra.
 
 ## Linear Algebra
 
